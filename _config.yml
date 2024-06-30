@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: mck
-github:
-  is_profile_page: false
+plugins:
+- jekyll-remote-theme
