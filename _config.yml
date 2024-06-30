@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: mck
+github:
+  is_project_page: false
